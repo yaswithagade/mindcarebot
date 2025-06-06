@@ -1,1 +1,1 @@
-# mindcarechatbot
+# mindcarebot
